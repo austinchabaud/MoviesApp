@@ -16,6 +16,5 @@ public class MovieApp {
         System.out.println("Maturity Rating: " + bestMovie.getMaturityRating());
         System.out.println("Genre: " + bestMovie.getGenre());
         applicationContext.close();
-        System.out.println("hello");
     }
 }
